@@ -1,2 +1,2 @@
 # Elementary-Math-Game
-know your addition, subtraction, division and multiplication
+A simple math game for elementary kids
